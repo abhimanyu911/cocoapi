@@ -24,7 +24,7 @@ To install this package, use `pip` as follows:
 
 ```
 (dlwin36coco) Phil@SERVERP E:\repos
-$ pip install git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonAPI
+$ pip install git+https://github.com/abhimanyu911/cocoapi.git#subdirectory=PythonAPI
 Collecting git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonAPI
   Cloning https://github.com/philferriere/cocoapi.git to c:\users\phil\appdata\local\temp\pip-req-build-jn698z8p
 Building wheels for collected packages: pycocotools
