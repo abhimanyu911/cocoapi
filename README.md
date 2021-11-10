@@ -19,7 +19,7 @@ To support Windows build and python3 we had to make [minor changes](https://gith
 
 - `PythonAPI/setup.py`
 - `PythonAPI/pycocotools/coco.py`
-- `A new module mean_average_precision() that can calculate mAP in one step with requisitw arguments.` [Click here for instructions](https://github.com/abhimanyu911/cocoapi/blob/master/Calculate_mAP_DEMO%20(1).ipynb)
+- `A new module mean_average_precision() that can calculate mAP in one step with requisite arguments.` [Click here for instructions](https://github.com/abhimanyu911/cocoapi/blob/master/Calculate_mAP_DEMO%20(1).ipynb)
 
 To install this package, use `pip` as follows:
 
